@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cross_line">142dp</dimen>
+    <dimen name="space_line">1dp</dimen>
+    <dimen name="pad">8dp</dimen>
+</resources>
